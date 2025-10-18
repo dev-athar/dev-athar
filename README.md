@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dev-athar
-- 👀 I’m interested in web-dev
+- 👀 I’m interested in ML, web, ai...
 
 Kaggle: https://www.kaggle.com/atharishrakmahir
 
